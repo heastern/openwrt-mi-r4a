@@ -6,8 +6,8 @@
 
 旧版breed看到的是1c7117，我不恢复来看了。
 
-![](.\img\1.png)
-![](.\img\2.png)
+![](https://github.com/heastern/openwrt-mi-r4a/blob/main/img/1.png?raw=true)
+![](https://github.com/heastern/openwrt-mi-r4a/blob/main/img/2.png?raw=true)
 
 ## 编译前准备：
 
@@ -75,7 +75,7 @@
 
    如果需要安装图形界面，请把这个勾上。
 
-   ![](.\img\3.png)
+   ![](https://github.com/heastern/openwrt-mi-r4a/blob/main/img/3.png?raw=true)
 
 7、`make download -j8`
 
@@ -100,7 +100,7 @@
 
 10、编译完成会有这几个文件（`222.bin`和`3333.bin`不是）
 
-       ![](.\img\4.png)
+       ![](https://github.com/heastern/openwrt-mi-r4a/blob/main/img/4.png?raw=true)
 
 ## 问题
 
@@ -195,7 +195,7 @@ openwrt第三方包如何进行选择
 
 之后就可以通过方向键选择了
 
-![](.\img\5.png)
+![](https://github.com/heastern/openwrt-mi-r4a/blob/main/img/5.png?raw=true)
 
 注：使用空格进行是否需要，*：添加到固件   M：只是编译，固件里面不会有
 
